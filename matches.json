@@ -1,0 +1,9 @@
+{
+    "puuid": null,
+    "matches": {
+        "status": {
+            "message": "Rate limit exceeded",
+            "status_code": 429
+        }
+    }
+}
