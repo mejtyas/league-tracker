@@ -1,0 +1,1 @@
+pip install requests selenium webdriver_manager discord.py
